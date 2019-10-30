@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b565b978.chunk.css",
+    "main.js": "/static/js/main.e0e8a90c.chunk.js",
+    "main.js.map": "/static/js/main.e0e8a90c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.b100127d.chunk.js": "/static/js/2.b100127d.chunk.js",
+    "static/js/2.b100127d.chunk.js.map": "/static/js/2.b100127d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a23c7cea11b4b872ebfdf366531dc5c2.js": "/precache-manifest.a23c7cea11b4b872ebfdf366531dc5c2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b565b978.chunk.css.map": "/static/css/main.b565b978.chunk.css.map",
+    "static/media/FriendList.module.css": "/static/media/lato-v15-latin-regular.056a373d.eot"
+  }
+}
